@@ -1,0 +1,103 @@
+{
+  "Name": "Demo",
+  "Background": "C:\\Users\\martinko\\OneDrive - MSFT\\Documents\\csharp\\PowerPoint Generator Attempt 4\\PowerPoint Generator Attempt 4\\Green.png",
+  "Background_blur": "C:\\Users\\martinko\\OneDrive - MSFT\\Documents\\csharp\\PowerPoint Generator Attempt 4\\PowerPoint Generator Attempt 4\\Green_blur.png",
+  "Font": "MonsterRat SemiBold",
+  "_color": [255, 255, 255],
+  "Slides": [
+    {
+      "Layout": "Title",
+      "Title": "Demo",
+      "Content": ["Made with PPGen4 by Marťas_SK"],
+      "Image": null,
+      "Font": null
+    },
+    {
+      "Layout": "LongText",
+      "Title": "Long Text",
+      "Content": [
+        "This is the longest sentence you can write with this settings....",
+        "Max 10 paragraphs",
+        "Test3",
+        "Test4",
+        "Test5",
+        "Test6",
+        "Test7",
+        "Test8",
+        "Test9",
+        "Test10"
+      ],
+      "Image": null,
+      "Font": null
+    },
+    {
+      "Layout": "ShortTextImageLeft",
+      "Title": "Short Text With Image on Left",
+      "Content": [
+        "Recommend short sentences",
+        "Max 9 paragraphs",
+        "Test3",
+        "Test4",
+        "Test5",
+        "Test6",
+        "Test7",
+        "Test8",
+        "Test9"
+      ],
+      "Image": "C:\\Users\\martinko\\Pictures\\c-sharp.png",
+      "Font": null
+    },
+    {
+      "Layout": "ShortTextImageRight",
+      "Title": "Short Text With Image on Right",
+      "Content": [
+        "Recommend short sentences",
+        "Test2",
+        "Test3",
+        "Test4",
+        "Test5",
+        "Test6",
+        "Test7",
+        "Test8",
+        "Test9"
+      ],
+      "Image": "C:\\Users\\martinko\\Pictures\\c-sharp.png",
+      "Font": null
+    },
+    {
+      "Layout": "SingleLongImageBottom",
+      "Title": "Single Text With Image at Bottom",
+      "Content": [
+        "Recommend long sentence max at  two lines"
+      ],
+      "Image": "C:\\Users\\martinko\\Pictures\\c-sharp.png",
+      "Font": null
+    },
+    {
+      "Layout": "SplitShortTextImageLeft",
+      "Title": "Short split text with image on left",
+      "Content": [
+        "Recommend short sentences",
+        "Max 4 paragraphs",
+        "Test3",
+        "Test4",
+        "Test5"
+      ],
+      "Image": "C:\\Users\\martinko\\Pictures\\c-sharp.png",
+      "Font": null
+    },
+    {
+      "Layout": "SplitShortTextImageRight",
+      "Title": "Short split text with image on right",
+      "Content": [
+        "Recommend short sentences",
+        "Max 4 paragraphs",
+        "Test3",
+        "Test4",
+        "Test5"
+      ],
+      "Image": "C:\\Users\\martinko\\Pictures\\c-sharp.png",
+      "Font": null
+    }
+  ]
+}
